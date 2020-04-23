@@ -1,0 +1,4 @@
+testdir
+testdir/subdir
+testdir/subdir/file.txt
+testdir/welcome.txt
