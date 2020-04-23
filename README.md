@@ -11,6 +11,6 @@ The program will parse the entire text file and will add comments to every file 
 it wil fetch all the files inside directory and comments to it.
 
 
-The comments can be changed in echo command present in filter.sh.
+The comments can be changed in echo command present in filter.sh and addComment.sh
 
 
